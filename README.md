@@ -35,18 +35,20 @@ Dashboard Visualization
 
 The following three Power BI dashboard pages provide a visual overview of the analysis:
 
-1. Financial Risk Analysis
+1. Financial Risk Analysis & Loan Portfolio Analysis
 
 <img width="1427" height="793" alt="Screenshot 2026-11-24 180623" src="https://github.com/user-attachments/assets/9ddccd95-870a-4ed3-afe4-870caa79a073" />
 
 
-2. Credit Risk & Borrower Analysis
+2. Credit Risk & Borrower Analysis Dashboard
 
-<img width="1431" height="792" alt="Screenshot 2026-11-24 180808" src="https://github.com/user-attachments/assets/340dd0f6-cc1c-4fc7-be57-545032ed032a" />
+<img width="1425" height="792" alt="Screenshot 2026-11-24 180855" src="https://github.com/user-attachments/assets/45ad9762-cdbf-41b0-a045-506913376844" />
 
 
-3. Loan Default & Financial Impact
-<img width="1425" height="792" alt="Screenshot 2026-11-24 180855" src="https://github.com/user-attachments/assets/5b0c56e9-39f0-4370-bb69-245af308b2c0" />
+3. Loan Default & Financial Impact Analysis
+
+<img width="1431" height="792" alt="Screenshot 2026-11-24 180808" src="https://github.com/user-attachments/assets/3b807902-83cb-4bdb-8eef-47c4f46c2a87" />
+
 
 # Insights Deep Dive
 Category 1: Financial Risk & Loan Portfolio Analysis
