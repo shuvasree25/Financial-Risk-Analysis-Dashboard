@@ -94,5 +94,12 @@ Recommendations:
 
 • Collateral Risk Assessment: Regularly review collateral values against outstanding loan balances and prioritise accounts with significant collateral shortfalls to understand potential recovery risks.
 
-# Tools And Technologies
+# Tools & Technologies
 
+• PostgreSQL: Database management and data storage.
+
+• SQL: Data exploration, data analysis, aggregations, joins, and business queries.
+
+• Power BI: Interactive dashboard development and data visualization.
+
+• DAX: Calculated measures and financial KPI calculations.
