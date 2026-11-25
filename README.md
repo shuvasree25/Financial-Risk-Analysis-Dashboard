@@ -93,3 +93,6 @@ Recommendations:
 • Default Recovery Management: Prioritise recovery efforts for high-value defaulted loans, considering the $36.7M outstanding default balance.
 
 • Collateral Risk Assessment: Regularly review collateral values against outstanding loan balances and prioritise accounts with significant collateral shortfalls to understand potential recovery risks.
+
+# Tools And Technologies
+
